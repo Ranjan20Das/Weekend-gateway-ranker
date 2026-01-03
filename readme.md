@@ -126,8 +126,7 @@ Copy code
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
-B.Tech / BCA / MCA  
+Ranjan Das
 Department of Computer Science
 
 ---
